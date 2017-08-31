@@ -1,9 +1,8 @@
 name: angular2
-version: 3.1.0
+version: 3.1.0+1
 author: Dart Team <web@dartlang.org>
-description: Framework for modern web applications
+description: DEPRECATED - please use angular (without the 2)
 homepage: https://webdev.dartlang.org/angular
-documentation: https://webdev.dartlang.org/angular/api
 environment:
   sdk: '>=1.23.0 <2.0.0'
 dependencies:

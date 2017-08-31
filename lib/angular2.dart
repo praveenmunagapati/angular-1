@@ -1,4 +1,5 @@
 /// The primary library for Angular Dart.
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2;
 
 export 'package:angular2/core.dart';

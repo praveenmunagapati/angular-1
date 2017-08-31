@@ -1,3 +1,4 @@
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.core;
 
 export 'src/core/angular_entrypoint.dart' show AngularEntrypoint;

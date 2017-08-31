@@ -1,5 +1,6 @@
 /// Maps application URLs into application states, to support deep-linking and
 /// navigation.
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.router;
 
 import 'src/router/directives/router_link.dart' show RouterLink;

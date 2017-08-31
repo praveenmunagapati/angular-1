@@ -1,4 +1,5 @@
 /// Starting point to import all compiler APIs.
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.compiler;
 
 export 'src/compiler/compiler.dart'

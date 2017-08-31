@@ -1,3 +1,6 @@
+@Deprecated('Use the angular package (without the 2) instead')
+library angular.di;
+
 export 'src/compiler/url_resolver.dart' show UrlResolver;
 export 'src/core/change_detection/pipe_transform.dart';
 export 'src/core/di.dart';

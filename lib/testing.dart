@@ -2,6 +2,7 @@
 ///
 /// This module is not included in the `angular2` module; you must import the
 /// test module explicitly.
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.testing;
 
 import 'package:angular2/src/core/change_detection.dart';

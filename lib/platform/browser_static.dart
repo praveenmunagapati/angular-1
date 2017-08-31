@@ -1,3 +1,4 @@
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.platform.browser_static;
 
 import 'dart:async';

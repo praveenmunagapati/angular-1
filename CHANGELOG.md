@@ -1,3 +1,9 @@
+## 3.1.0+1
+
+* **DEPRECATED** See the 
+  [angular package](https://pub.dartlang.org/packages/angular)
+  (without the '2').
+
 ## 3.1.0
 
 ### New features

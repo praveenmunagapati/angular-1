@@ -1,3 +1,6 @@
+@Deprecated('Use the angular package (without the 2) instead')
+library angular2.reflection;
+
 import 'src/core/reflection/reflection.dart';
 import 'src/core/reflection/reflection_capabilities.dart';
 

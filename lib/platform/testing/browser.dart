@@ -1,3 +1,4 @@
+@Deprecated('Use the angular package (without the 2) instead')
 library angular2.platform.testing.browser;
 
 import 'package:angular2/di.dart';
